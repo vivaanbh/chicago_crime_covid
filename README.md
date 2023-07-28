@@ -6,8 +6,8 @@ Contents:
 - Introduction: a brief overview of the thinking behind the project and explanation of data.
 - Project 1: cleaning data; adding additional data (Apple Mobility Index); summary statistics of explanatory and dependent variables, and distributions
 - Project 2: the message of the project through visualisations and mapping.
-- Project 3: add additional data through HTML web-scrapping, more visualisations
-- Final Project: visualisations and regressions.
+- Project 3: adding additional data through HTML web-scrapping, and more visualisations.
+- Final Project: visualisations and regressions for inference.
 
 Packages used:
 
